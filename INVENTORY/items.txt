@@ -1,0 +1,25 @@
+["spy_camera"] = {
+    ["name"] = "spy_camera",
+    ["label"] = "Spy Camera",
+    ["weight"] = 100,
+    ["type"] = "item",
+    ["image"] = "spy_camera.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = true,
+    ["combinable"] = nil,
+    ["description"] = "A small, portable surveillance camera."
+},
+
+["ca_tablet"] = {
+    ["name"] = "ca_tablet",
+    ["label"] = "cam-Tablet",
+    ["weight"] = 200,
+    ["type"] = "item",
+    ["image"] = "spycam_tablet.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = true,
+    ["combinable"] = nil,
+    ["description"] = "A device for controlling spy cameras."
+},
