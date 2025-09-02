@@ -32,4 +32,4 @@ If you don't want to utilise the `ca_tablet` item to connect to the deployed spy
 
 ## The Original Repostry
 Thanks for Mobius1. (author) 
-* [ox_target](https://github.com/Mobius1/ms-spycams)
+* [ms-spycams](https://github.com/Mobius1/ms-spycams)
