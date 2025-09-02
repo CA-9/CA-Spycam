@@ -4,6 +4,7 @@
 
 ## Dependencies
 * [qb-core](https://github.com/qbcore-framework/qb-core)
+* [oxmysql](https://github.com/overextended/oxmysql)
 * [qb-target](https://github.com/qbcore-framework/qb-target)
 or
 * [ox_target](https://github.com/overextended/ox_target)
